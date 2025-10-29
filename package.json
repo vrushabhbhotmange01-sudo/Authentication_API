@@ -2,10 +2,10 @@
   "name": "project-4",
   "version": "1.0.0",
   "description": "Authentication API",
-  "main": "backend/server.js",
+  "main": "Backend/server.js",
   "type": "module",
   "scripts": {
-    "start": "node backend/server.js",
+    "start": "node Backend/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
